@@ -1,4 +1,6 @@
 # VTOL VR Multiplayer Mod
+
+# ! This is an unreleased and **unplayable** mod. It is under development !
 [![Discord](https://img.shields.io/discord/597153468834119710?label=VTOL%20VR%20Modding&logo=discord&style=flat-square)](https://discord.gg/XZeeafp "Discord Invite") [![](https://img.shields.io/badge/Steam-Networking-lightgrey?style=flat-square)](https://partner.steamgames.com/doc/api/ISteamNetworking "Steam Networking Docs") [![](https://img.shields.io/badge/Steamworks-.NET-blue?style=flat-square)](https://steamworks.github.io/installation/ "Steamworks C# Wrapper")
 
 This is the repository for the modded multiplayer in VTOL VR. The multiplayer is currently sperate from the mod loader its self but once it is at a playable state, it will be merged in with the mod loader. 
